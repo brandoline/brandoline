@@ -2,6 +2,7 @@
 
 - 🔭 Sou estudante de Análise e Desenvolvimento de sistemas
 - 📚 Atualmente estou aprendendo javaScript e C#
+- ✉️ Português - inglês
 - 😄 Pronomes: ela/dela
 
 <div>
