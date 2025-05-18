@@ -1,7 +1,7 @@
 ## Ooi, eu sou a Helen!
 
 - 🔭 Sou estudante de Análise e Desenvolvimento de sistemas
-- 📚 Atualmente estou aprendendo javaScript e C#
+- 📚 Atualmente estou aprendendo C# e Node.Js
 - ✉️ Português - inglês
 - 😄 Pronomes: ela/dela
 
